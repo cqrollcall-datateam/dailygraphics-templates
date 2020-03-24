@@ -1,0 +1,20 @@
+{
+  "name": "dailygraphics-templates",
+  "version": "1.0.0",
+  "description": "Dailygraphics Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cqrollcall-datateam/dailygraphics-templates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cqrollcall-datateam/dailygraphics-templates/issues"
+  },
+  "homepage": "https://github.com/cqrollcall-datateam/dailygraphics-templates#readme"
+}
